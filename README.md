@@ -13,25 +13,16 @@
 ⚡ Fun fact: I love to explore new hiking trails on weekends!
 
 ---
+**Web Technologies:**
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+<!-- Add logos for other web technologies -->
 
-### My Skills:
+**Back-End:**
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
 
-**Web Technologies:** HTML5, CSS3 (Flexbox, Grid, Media Query), JavaScript (ES6+), AngularJS, AJAX, jQuery, Sass, React (Basic)
+<!-- Add logos for databases, other languages, Java UI libraries, etc. -->
 
-**Back-End:** Node.js, Express.js
-
-**Databases:** MongoDB, MySQL
-
-**Other Languages:** TypeScript, C, C++, Java, Python
-
-**Java UI Libraries:** AWT, Swing
-
-**Algorithms:** Data Structures
-
-**Version Control:** Git
-
-**Documentation:** MS Office
-
-**Tools & IDEs:** VsCode, Pycharm, IntelliJ, Postman (API tester)
-
-**Operating Systems:** Windows, Linux
+**Version Control:**
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
