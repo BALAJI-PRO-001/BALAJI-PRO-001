@@ -3,14 +3,15 @@
 Welcome to my GitHub repository! I'm Balaji, a software developer passionate about web development, back-end technologies, databases, and more. Here's a breakdown of my skills and experience:
 
 ## Web Technologies
-- HTML5
-- CSS3 (Flexbox, Grid, Media Query)
-- JavaScript (ES6+)
-- AngularJS
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3 (Flexbox, Grid, Media Query)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript (ES6+)
+- ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white) AngularJS
 - AJAX
-- jQuery
-- Sass
-- React (Basic)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) jQuery
+- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) Sass
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React (Basic)
+
 
 ## Back-End
 - Node.js
