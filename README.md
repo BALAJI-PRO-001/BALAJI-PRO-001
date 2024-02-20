@@ -12,21 +12,20 @@ Welcome to my GitHub repository! I'm Balaji, a software developer passionate abo
 - ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) Sass
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) React (Basic)
 
-
 ## Back-End
-- Node.js
-- Express.js
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) Node.js
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) Express.js
 
 ## Databases
-- MongoDB
-- MySQL
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
 
 ## Other Languages
-- TypeScript
-- C
-- C++
-- Java
-- Python
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) TypeScript
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) C
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) Java
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
 
 ## Java UI Libraries
 - AWT
@@ -36,7 +35,7 @@ Welcome to my GitHub repository! I'm Balaji, a software developer passionate abo
 - Data Structures
 
 ## Version Control
-- Git
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
 
 ## Documentation
 - MS Office
