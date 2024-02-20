@@ -18,21 +18,6 @@ Welcome to my GitHub repository! I'm Balaji, a software developer passionate abo
 ## Version Control
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="50">
 
-
-## Projects
-Here's a project I've worked on:
-
-### User Management System
-- **Description**: Developed a comprehensive user management system utilizing a stack of modern web technologies.
-- **Features**:
-  - Implemented features such as user registration, authentication, and profile management.
-  - Utilized AngularJS for the front-end, Node.js and Express.js for the back-end.
-  - Employed MongoDB and MySQL for data storage.
-  - Incorporated AJAX and jQuery for enhanced user interactions.
-
-## Contributions
-I'm open to collaborations and contributions. If you have any ideas or suggestions, feel free to reach out!
-
 ## Contact
 Email: balajibr0000@gmail.com
 
