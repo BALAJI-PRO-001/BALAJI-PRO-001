@@ -14,23 +14,8 @@ Welcome to my GitHub repository! I'm Balaji, a software developer passionate abo
 ## Other Languages
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="50"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="50"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="50">
 
-## Java UI Libraries
-AWT Swing
-
-## Algorithms
-Data Structures
-
 ## Version Control
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="50">
-
-## Documentation
-MS Office
-
-## Tools & IDEs
-Visual Studio Code PyCharm IntelliJ IDEA Postman (API tester)
-
-## Operating Systems
-Windows Linux
 
 ## Projects
 Here are some of the projects I've worked on or contributed to:
