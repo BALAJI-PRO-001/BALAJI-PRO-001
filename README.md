@@ -1,6 +1,3 @@
-Sure! Here's how you can modify your original code to add an animated effect using CSS:
-
-```markdown
 # Balaji's Portfolio
 
 Welcome to my GitHub repository! I'm Balaji, a software developer passionate about web development, back-end technologies, databases, and more. Here's a breakdown of my skills and experience:
@@ -25,30 +22,3 @@ Welcome to my GitHub repository! I'm Balaji, a software developer passionate abo
 Email: balajibr0000@gmail.com
 
 Happy coding!
-
-<!-- Animated Code -->
-<style>
-  .code {
-    font-family: monospace;
-    font-size: 16px;
-    padding: 20px;
-    background-color: #f5f5f5;
-    border-radius: 5px;
-    overflow: auto;
-    animation: slideIn 2s ease-in-out infinite alternate;
-  }
-
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-50px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
-```
-
-Now your original code includes an animated effect for the "Happy coding!" message. You can copy and paste this into your README.md file on GitHub. Let me know if you need further assistance!
