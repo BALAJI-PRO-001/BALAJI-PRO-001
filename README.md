@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  # **_Balaji's Portfolio_**
+  <h1>Balaji's Portfolio</h1>
 </div>
 
 
