@@ -42,3 +42,10 @@
 Email: balajibr0000@gmail.com
 
 ## Happy coding!
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
