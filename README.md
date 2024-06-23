@@ -1,21 +1,65 @@
-# Balaji's Portfolio
 
-Welcome to my GitHub repository! I'm Balaji, a software developer passionate about web development, back-end technologies, databases, and more. Here's a breakdown of my skills and experience:
+## Hi there 👋 It's me Balaji 
 
-![Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- **🌱 Currently expanding expertise in Web Development.**
+- **👯 Actively seeking collaboration opportunities in Ethical Hacking.**
+- **🤔 Seeking guidance and support for career placements in FAANG companies.**
+- **💬 Feel free to engage me in discussions about technology.**
+- **😄 Pronouns: Techie**
 
 
-## Web Technologies
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="50"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="50"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="50"> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" height="50">  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" height="50"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" height="50">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" height="100" align="center"> -->
 
-## Back-End
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="50">
-## Databases
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="50"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="50">
-## Other Languages
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="50"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="50"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="50">
-## Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="50">
-## Contact
-Email: balajibr0000@gmail.com
-Happy coding!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
+
+### I code in  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="node-js"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/external-flat-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah"/>
+
+
+
+
+
+<!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="node-js"/>
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+<img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+
+<img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
+
+<img width="50" height="50" src="https://img.icons8.com/external-flat-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah"/> -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
+
+### IDE and Tools I Use
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+
+
+
+<!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  -->
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
+
+
+### Contact : [balajibr0000@gmail.com](mailto:balajibr0000@gmail.com)
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
